@@ -46,3 +46,8 @@ public class Program
        Console.WriteLine("I don't get what u say I quit");
     }
 }
+/*Best response:
+ Awite Let me Get dis Straight. U are John doe whos 84794 years old in 5 yers, but 84789 years now. You gots eleventeen eyes, but ur favorite color is cheese.
+  Ur over-socks are size turtle. You like teacher the cheetos cheeta. And to do in school best is tax envasion.
+  Ur magic box is generally set to magic (on the box) and you want to be overthrowing the polish government when grow up?
+  Im confused? U only has theres only one me. im one in a krillion Siblings. You like why the heck is funnest a word and fall. Am I rite?*/
